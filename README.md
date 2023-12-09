@@ -2,6 +2,7 @@
 <h3 align="center">A Chinese technician that love programming!</h3>
 
 - 🌱 I’m currently learning **pytorch**
+- not using **Github** too much
 <p align="left">
 </p>
 
