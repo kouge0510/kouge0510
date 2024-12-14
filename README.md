@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm kouge0510</h1>
 <h3 align="center">A Chinese technician that love programming!</h3>
 
-- 🌱 I’m currently learning **pytorch**
+- 🌱 I’m currently learning **ROS2**,trying to use C++ as much as possible.
 - not using **Github** too much
 <p align="left">
 </p>
