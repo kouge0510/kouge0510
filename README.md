@@ -3,6 +3,7 @@
 
 - 🌱 I’m currently learning **ROS2**,trying to use C++ as much as possible.
 - not using **Github** too much
+- [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="left">
 </p>
 <p><img src="https://komarev.com/ghpvc/?username=kouge0510" alt=""></p>
