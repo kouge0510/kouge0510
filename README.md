@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **SLAM**,trying to use pytorch as much as possible.
 - not using **Github** too much
-- [![trophy](https://github-profile-trophy.vercel.app/?username=kouge0510)](https://github.com/ryo-ma/github-profile-trophy)
+- [![trophy](https://github-trophy.vercel.app/?username=kouge0510&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="left">
 </p>
 <p><img src="https://komarev.com/ghpvc/?username=kouge0510" alt=""></p>
@@ -28,8 +28,7 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kouge0510&show_icons=true&locale=en&layout=compact" alt="kouge0510" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kouge0510&show_icons=true&locale=en" alt="kouge0510" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kouge0510&" alt="kouge0510" /></p>
+<p><img align="center" src="https://ghstats.dev/api/langs?username=kouge0510" alt="kouge0510" /></p>
+<p>&nbsp;<img align="center" src="https://ghstats.dev/api/card?username=kouge0510&show_icons=true" alt="kouge0510" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=kouge0510" alt="kouge0510" /></p>
