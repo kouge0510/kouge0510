@@ -29,6 +29,6 @@
 </p>
 
 
-<p><img align="center" src="https://ghstats.dev/api/langs?username=kouge0510" alt="kouge0510" /></p>
+
 <p>&nbsp;<img align="center" src="https://ghstats.dev/api/card?username=kouge0510&show_icons=true" alt="kouge0510" /></p>
 <p><img align="center" src="https://streak-stats.demolab.com/?user=kouge0510" alt="kouge0510" /></p>
