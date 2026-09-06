@@ -2,7 +2,6 @@
 <h3 align="center">A Chinese technician that love programming!</h3>
 
 - 🌱 I’m currently learning **PCB** and **Vision**,trying to use pytorch as much as possible.
-- not using **Github** too much
 - [![trophy](https://github-trophy.vercel.app/?username=kouge0510&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="left">
 </p>
